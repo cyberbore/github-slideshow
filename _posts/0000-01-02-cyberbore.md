@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text 
+!False.... Funny cause it's true. 
 Use the left arrow to go back!
